@@ -2,6 +2,8 @@
 
 Online GDB link : https://onlinegdb.com/cX1o7t0Nw
 
+*Open main.cpp file and run it, if you want to add testcases then create newFiles and call the process_test_case function with the same name.
+
 This project implements a simplified version of **Shamir's Secret Sharing** scheme using **Lagrange interpolation** in C++.
 
 ## 🚀 Objective
